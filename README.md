@@ -1,14 +1,15 @@
-# 안녕하세요, Miles입니다 👋
+# jongvvon 👋
 
-> *현장에서 배운 것들을 기록합니다*
+> *현장에서 배운 것들을 기록합니다 — rootshift*
 
 <br>
 
 ## 🧑‍💻 About Me
 
 - 🏢 대형 운영 시설 IT 인프라 엔지니어
+- 🎓 숭실대 스마트시스템소프트웨어학과 졸업 (ResNet 논문, 우수상)
 - 🔄 DevOps / SRE 전환 준비 중
-- 📝 기술 블로그 **rootshift** 운영 중
+- 📝 기술 블로그 **[rootshift](https://blog.rootshift.dev)** 운영 중
 - 🌿 iOS 앱 **Leafday** 개발 중
 
 <br>
