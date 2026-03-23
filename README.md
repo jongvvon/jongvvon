@@ -15,12 +15,37 @@
 
 ## 🛠 Tech Stack
 
-**현업**
+**현업 — 서버**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AIX](https://img.shields.io/badge/AIX-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+
+**현업 — 네트워크 / 스토리지**
+
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![L2/L3/L4](https://img.shields.io/badge/L2%2FL3%2FL4_Switch-grey?style=flat-square)
+![SAN](https://img.shields.io/badge/SAN_Switch-E2231A?style=flat-square)
+![Hitachi](https://img.shields.io/badge/Hitachi_Storage-E60026?style=flat-square&logo=hitachi&logoColor=white)
+
+**현업 — DB**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Informix](https://img.shields.io/badge/Informix-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**현업 — WEB / WAS**
+
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Zeus](https://img.shields.io/badge/Zeus_WAS-grey?style=flat-square)
+![WebtoB](https://img.shields.io/badge/WebtoB-grey?style=flat-square)
 
 **공부 중**
 
